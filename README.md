@@ -1,4 +1,4 @@
-### Que onda 👋 | Whatup 👋
+### Que onda 👋 | Whatsup 👋
 
 #### Python Backend Developer
 
