@@ -1,6 +1,6 @@
 ### Que onda 👋 | Whatsup 👋
 
-#### Python Backend Developer
+#### Curious Developer
 
 <!--
 **nothingbutlucas/nothingbutlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
