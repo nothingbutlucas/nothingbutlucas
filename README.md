@@ -1,6 +1,6 @@
-### Que onda 👋 | Whatsup 👋
+### Hi ✨
 
-#### Curious Developer
+Actually I prefer [codeberg](https://codeberg.org/nothingbutlucas/), so follow me there `^_^`
 
 <!--
 **nothingbutlucas/nothingbutlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
